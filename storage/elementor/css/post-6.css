@@ -1,0 +1,40 @@
+.elementor-kit-6{--e-global-color-primary:#5A5A5A;--e-global-color-secondary:#D63641;--e-global-color-text:#F3F3F3;--e-global-color-accent:#0088C2;--e-global-color-33d4444:#05A3C9;--e-global-color-677cbd8:#000000;--e-global-color-8d83b48:#F3F3F3;--e-global-color-8b49b51:#222E4E;--e-global-color-03194b9:#FFFFFF;--e-global-color-4a122cb:#FEC14D;--e-global-color-451fc6a:#B67F18;--e-global-color-bf6b22a:#D9D9D9;--e-global-color-b8ce950:#FFFFFF66;--e-global-color-a1ff31b:#273C75;--e-global-color-826ccbe:#F5F5F5;--e-global-typography-primary-font-family:"Jost";--e-global-typography-primary-font-size:1.25em;--e-global-typography-primary-font-weight:500;--e-global-typography-secondary-font-family:"Jost";--e-global-typography-secondary-font-size:1rem;--e-global-typography-secondary-font-weight:600;--e-global-typography-secondary-text-transform:none;--e-global-typography-secondary-line-height:21px;--e-global-typography-text-font-family:"Crog Black";--e-global-typography-text-font-size:20.9rem;--e-global-typography-text-font-weight:900;--e-global-typography-text-text-transform:uppercase;--e-global-typography-text-line-height:0.7em;--e-global-typography-accent-font-family:"Crog Extra Bold";--e-global-typography-accent-font-size:5rem;--e-global-typography-accent-font-weight:800;--e-global-typography-accent-line-height:0.8rem;--e-global-typography-45531bc-font-family:"Crog Extra Bold";--e-global-typography-45531bc-font-size:10rem;--e-global-typography-45531bc-font-weight:800;--e-global-typography-45531bc-line-height:0.8rem;--e-global-typography-ab47c96-font-family:"Crog Black";--e-global-typography-ab47c96-font-size:3.875rem;--e-global-typography-ab47c96-font-weight:900;--e-global-typography-ab47c96-line-height:47px;--e-global-typography-e5b878d-font-family:"Jost";--e-global-typography-e5b878d-font-size:1.5rem;--e-global-typography-e5b878d-font-weight:500;--e-global-typography-c4ab67a-font-family:"Jost";--e-global-typography-c4ab67a-font-size:1.5rem;--e-global-typography-c4ab67a-font-weight:700;--e-global-typography-4d093e4-font-family:"Crog Medium";--e-global-typography-4d093e4-font-size:5.4375rem;--e-global-typography-4d093e4-letter-spacing:-0.10875rem;--e-global-typography-33d2001-font-family:"Crog SemiBold";--e-global-typography-33d2001-font-size:2rem;--e-global-typography-33d2001-font-weight:600;--e-global-typography-1764f5c-font-family:"Crog Medium";--e-global-typography-1764f5c-font-size:4.0625rem;--e-global-typography-1764f5c-font-weight:500;--e-global-typography-1764f5c-letter-spacing:-0.09rem;--e-global-typography-ae7e051-font-family:"Jost";--e-global-typography-ae7e051-font-size:1.25rem;--e-global-typography-ae7e051-font-weight:500;--e-global-typography-6db986e-font-family:"Jost";--e-global-typography-6db986e-font-size:1.5rem;--e-global-typography-6db986e-font-weight:500;--e-global-typography-6db986e-text-transform:none;--e-global-typography-b3f1284-font-family:"Crog Bold";--e-global-typography-b3f1284-font-size:4rem;--e-global-typography-b3f1284-font-weight:700;--e-global-typography-b3f1284-text-transform:uppercase;--e-global-typography-81d4a7d-font-family:"Jost";--e-global-typography-81d4a7d-font-size:1.875rem;--e-global-typography-81d4a7d-font-weight:500;background-color:#222E4E;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-kit-6{--e-global-typography-text-font-size:191px;--e-global-typography-accent-font-size:67px;--e-global-typography-45531bc-font-size:145px;--e-global-typography-ab47c96-font-size:60px;--e-global-typography-b3f1284-font-size:48px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-6{--e-global-typography-text-font-size:117px;--e-global-typography-accent-font-size:54px;--e-global-typography-45531bc-font-size:112px;--e-global-typography-ab47c96-font-size:31px;--e-global-typography-e5b878d-font-size:19px;--e-global-typography-4d093e4-font-size:67px;--e-global-typography-33d2001-font-size:23px;--e-global-typography-b3f1284-font-size:40px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Crog Black';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://magacattoken.com/wp-content/uploads/2024/09/Crog-Black.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Crog Extra Bold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://magacattoken.com/wp-content/uploads/2024/09/Crog-ExtraBold.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Crog Medium';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://magacattoken.com/wp-content/uploads/2024/09/Crog-Medium.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Crog SemiBold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://magacattoken.com/wp-content/uploads/2024/09/Crog-SemiBold.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Crog Bold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://magacattoken.com/wp-content/uploads/2024/09/Crog-Bold.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
